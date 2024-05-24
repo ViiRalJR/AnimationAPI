@@ -1,0 +1,5 @@
+name: RecluseAnimationAPI
+version: '${project.version}'
+main: me.viiral.animations.RecluseAnimationAPI
+authors: [ ViiRal ]
+description: Yes
